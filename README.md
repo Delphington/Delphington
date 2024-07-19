@@ -1,7 +1,5 @@
 ## About me👋
-![Uploading Our.gif…]()
-
-
+![Our](https://github.com/user-attachments/assets/9b1a4503-ab43-41d5-a2b1-97c2f6ab1830)
 
 
 
