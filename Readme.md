@@ -7,11 +7,6 @@
 </div>
 
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Delphington+Java+Developer&center=true&size=70">
-  </a>
-</h1>
 
 
 
@@ -40,6 +35,11 @@
 
 
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Delphington+Java+Developer&center=true&size=20">
+  </a>
+</h1>
 
 
 
