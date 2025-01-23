@@ -46,17 +46,6 @@
 
 
 
-
-<div id="header">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVwcjd5ejc3cWN6NzYxaThuaWY2NGRxeXJhcjRudXMydmkybnA3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SmPKQDd4HOnyKgh0cV/giphy.gif"  width="150" height="150"/>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQxd21qaGJ4OWxubnI5dHZzYWFrbzlyNWxldzVkZTJub2kzeHB3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRvxlVGNja38s2A/giphy.gif"  width="150" height="150"/>
-
-</div>
-
-
-
-
-
 🚀 **Pet проект:** [**Dumalka**](https://github.com/Delphington/Dumalka) - универсальный помощник для викторин. Задача моего приложение находить вероятности правильного ответа на заданный вопрос викторин c помощью интернета!
 
 [**Обзор функциональности приложения**](https://youtu.be/RTaMZ_CRuJs?si=PIFTX8NYqSMqNku8)
@@ -73,6 +62,13 @@
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
                     </p>
                     
+
+
+
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delphington&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+    
 
 
 
