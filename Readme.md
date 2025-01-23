@@ -21,6 +21,16 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 
+![RESTful API with Spring Boot](https://img.shields.io/badge/RESTful%20API-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
+![Spring REST](https://img.shields.io/badge/Spring%20REST-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
+
+
+
+
+
+
+
+
 🚀 **Pet проект:** [**Dumalka**](https://github.com/Delphington/Dumalka) - универсальный помощник для викторин. Задача моего приложение находить вероятности правильного ответа на заданный вопрос викторин c помощью интернета!
 
 [**Обзор функциональности приложения**](https://youtu.be/RTaMZ_CRuJs?si=PIFTX8NYqSMqNku8)
