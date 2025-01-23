@@ -37,7 +37,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Delphington,+Java+Developer&center=true&size=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Delphington,+Java+Developer&center=true&size=35">
   </a>
 </h1>
 
