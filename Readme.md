@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=+Palui+SP+Demo+Bold+700+&weight=60&size=60&duration=7000&pause=1000&color=98FF98&random=true&width=1200&height=150&lines=Hi%2C+I'm+Delphington+Java+Developer)](https://git.io/typing-svg)
 
 
-![Our](https://github.com/user-attachments/assets/9b1a4503-ab43-41d5-a2b1-97c2f6ab1830)
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/9b1a4503-ab43-41d5-a2b1-97c2f6ab1830"  width="2000" height="400"/>
+</div>
+
 
 
 
@@ -69,6 +73,8 @@
 
     
 
+
+![Our](https://github.com/user-attachments/assets/9b1a4503-ab43-41d5-a2b1-97c2f6ab1830)
 
 
 
