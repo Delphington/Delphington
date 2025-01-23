@@ -1,13 +1,7 @@
 ![Our](https://github.com/user-attachments/assets/9b1a4503-ab43-41d5-a2b1-97c2f6ab1830)
 
 
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/demo/?font=+Palui+SP+Demo+Bold+700+&weight=60&size=60&duration=7000&color=98FF98&random=true&width=900&height=150&lines=Delphington+Java+Developer">
-  </a>
-</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Palui+SP+Demo+Bold+700+&weight=60&size=60&duration=7000&pause=1000&color=98FF98&random=true&width=900&height=150&lines=Delphington+Java+Developer)](https://git.io/typing-svg)
 
 
 
