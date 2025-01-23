@@ -1,6 +1,8 @@
 ![Our](https://github.com/user-attachments/assets/9b1a4503-ab43-41d5-a2b1-97c2f6ab1830)
 
 <div id="header" align="center">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVwcjd5ejc3cWN6NzYxaThuaWY2NGRxeXJhcjRudXMydmkybnA3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SmPKQDd4HOnyKgh0cV/giphy.gif" width="200"/>
+
 
   
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xxY2xnYmljc3hjZ3d2b3I1dHNqOGZyMmpnYmt6bzVmbWt2dno5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
