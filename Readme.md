@@ -52,17 +52,6 @@
 
 
 
-🚀 **Pet проект:** [**Dumalka**](https://github.com/Delphington/Dumalka) - универсальный помощник для викторин. Задача моего приложение находить вероятности правильного ответа на заданный вопрос викторин c помощью интернета!
-
-[**Обзор функциональности приложения**](https://youtu.be/RTaMZ_CRuJs?si=PIFTX8NYqSMqNku8)
-
-[**Демонстрация работы приложения**](https://youtu.be/_8Q9ap84_1E?si=_fAz3dJSkEO2GqVo)
-
-🥩**Скачать:**
-
-[**NashStore**](http://store.nashstore.ru/store/6278ea414891a52a35489fdd)
-[**GitHub**](https://github.com/Delphington/Dumalka/releases/tag/Dumalka)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delphington&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -73,6 +62,17 @@
                     </p>
                     
 
+
+🚀 **Pet проект:** [**Dumalka**](https://github.com/Delphington/Dumalka) - универсальный помощник для викторин. Задача моего приложение находить вероятности правильного ответа на заданный вопрос викторин c помощью интернета!
+
+[**Обзор функциональности приложения**](https://youtu.be/RTaMZ_CRuJs?si=PIFTX8NYqSMqNku8)
+
+[**Демонстрация работы приложения**](https://youtu.be/_8Q9ap84_1E?si=_fAz3dJSkEO2GqVo)
+
+🥩**Скачать:**
+
+[**NashStore**](http://store.nashstore.ru/store/6278ea414891a52a35489fdd)
+[**GitHub**](https://github.com/Delphington/Dumalka/releases/tag/Dumalka)
 
 
         
