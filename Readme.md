@@ -36,6 +36,7 @@
 ![Lombok](https://img.shields.io/badge/lombok-green?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Liquibase](https://img.shields.io/badge/Liquibase-39C2B2?style=for-the-badge&logo=liquibase&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
@@ -50,7 +51,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=fff)
 
-
+<img align="right" src="(https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Delphington)">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delphington&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
