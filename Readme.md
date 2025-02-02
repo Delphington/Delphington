@@ -14,8 +14,6 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2thd3RnMXoxcW50MWN2aGJveXY0cTExYXo1eXIxNXJ0YWVoMGdwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif"  width="150" height="150"/>
 </div>
 
-<br/>
-
 ----
 
 ![java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
