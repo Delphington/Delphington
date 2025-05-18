@@ -34,29 +34,23 @@
 -----
 
 ### Aditional
-
-[![Keycloak](https://img.shields.io/badge/Keycloak-logo-000?logo=keycloak)](https://www.keycloak.org/)
-[![Testcontainers](https://img.shields.io/badge/Testcontainers-logo-000?logo=testcontainers)](https://testcontainers.com/)
-[![Swagger](https://img.shields.io/badge/Swagger-logo-85EA2D?logo=swagger)](https://swagger.io/)
-[![Flyway](https://img.shields.io/badge/Flyway-logo-000000?logo=flywaydb&logoColor=white)](https://flywaydb.org/)
-
-Database: JOOQ Liquibase/Flyway
-Testing: JUnit 5, Mockito, Testcontainers, SpringBootTest, WireMock
-Tools: CI/CD,  Swagger/OpenAPI
-Дополнительный опыт: C/C++, QT, SFML
-
-[![jOOQ](https://img.shields.io/badge/jOOQ-logo-000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBkPSJNMTQwIDYwSDEyMHY4MGgyMFY2MHoiIGZpbGw9IiNGRkYiLz48cGF0aCBkPSJNODAgNjBINjB2ODBoMjBWNjB6IiBmaWxsPSIjRkZGIi8+PC9zdmc+)](https://www.jooq.org/)
-[![Liquibase](https://img.shields.io/badge/Liquibase-logo-2962FF?logo=liquibase)](https://www.liquibase.org/)
-[![Flyway](https://img.shields.io/badge/Flyway-logo-000000?logo=flywaydb&logoColor=white)](https://flywaydb.org/)
-
+**Testing:**
 [![JUnit5](https://img.shields.io/badge/JUnit5-logo-25A162?logo=junit5)](https://junit.org/junit5/)
 [![Mockito](https://img.shields.io/badge/Mockito-logo-000?logo=mockito)](https://site.mockito.org/)
 [![Testcontainers](https://img.shields.io/badge/Testcontainers-logo-000?logo=testcontainers)](https://testcontainers.com/)
 [![WireMock](https://img.shields.io/badge/WireMock-logo-8A4182)](https://wiremock.org/)
 
+
+**Tools:**
 [![Swagger](https://img.shields.io/badge/Swagger-logo-85EA2D?logo=swagger)](https://swagger.io/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-logo-2088FF?logo=githubactions)](https://github.com/features/actions)
-[![Jenkins](https://img.shields.io/badge/Jenkins-logo-D24939?logo=jenkins)](https://www.jenkins.io/)
+[![Keycloak](https://img.shields.io/badge/Keycloak-logo-000?logo=keycloak)](https://www.keycloak.org/)
+[![Flyway](https://img.shields.io/badge/Flyway-logo-000000?logo=flywaydb&logoColor=white)](https://flywaydb.org/)
+[![Liquibase](https://img.shields.io/badge/Liquibase-logo-2962FF?logo=liquibase)](https://www.liquibase.org/)
+[![jOOQ](https://img.shields.io/badge/jOOQ-logo-000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBkPSJNMTQwIDYwSDEyMHY4MGgyMFY2MHoiIGZpbGw9IiNGRkYiLz48cGF0aCBkPSJNODAgNjBINjB2ODBoMjBWNjB6IiBmaWxsPSIjRkZGIi8+PC9zdmc+)](https://www.jooq.org/)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000)
+![Lombok](https://img.shields.io/badge/lombok-green?style=for-the-badge&logo=flask&logoColor=white)
+
+
 
 [![C++](https://img.shields.io/badge/C++-logo-00599C?logo=cplusplus)](https://isocpp.org/)
 [![Qt](https://img.shields.io/badge/Qt-logo-41CD52?logo=qt)](https://www.qt.io/)
@@ -64,10 +58,8 @@ Tools: CI/CD,  Swagger/OpenAPI
 
 -----
 
-
+<!--
 ![Spring REST](https://img.shields.io/badge/Spring%20REST-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000)
-![Lombok](https://img.shields.io/badge/lombok-green?style=for-the-badge&logo=flask&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-39C2B2?style=for-the-badge&logo=liquibase&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%23C62938.svg?style=for-the-badge&logo=Swagger&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-000000?style=for-the-badge&logo=openapiinitiative&logoColor=white)
@@ -78,7 +70,7 @@ Tools: CI/CD,  Swagger/OpenAPI
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=fff)
-
+-->
 ----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delphington&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
