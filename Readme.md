@@ -35,55 +35,35 @@
 
 ### Aditional
 
-
+[![Keycloak](https://img.shields.io/badge/Keycloak-logo-000?logo=keycloak)](https://www.keycloak.org/)
+[![Testcontainers](https://img.shields.io/badge/Testcontainers-logo-000?logo=testcontainers)](https://testcontainers.com/)
+[![Swagger](https://img.shields.io/badge/Swagger-logo-85EA2D?logo=swagger)](https://swagger.io/)
+[![Flyway](https://img.shields.io/badge/Flyway-logo-000000?logo=flywaydb&logoColor=white)](https://flywaydb.org/)
 
 Database: JOOQ Liquibase/Flyway
 Testing: JUnit 5, Mockito, Testcontainers, SpringBootTest, WireMock
 Tools: CI/CD,  Swagger/OpenAPI
 Дополнительный опыт: C/C++, QT, SFML
 
+[![jOOQ](https://img.shields.io/badge/jOOQ-logo-000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBkPSJNMTQwIDYwSDEyMHY4MGgyMFY2MHoiIGZpbGw9IiNGRkYiLz48cGF0aCBkPSJNODAgNjBINjB2ODBoMjBWNjB6IiBmaWxsPSIjRkZGIi8+PC9zdmc+)](https://www.jooq.org/)
+[![Liquibase](https://img.shields.io/badge/Liquibase-logo-2962FF?logo=liquibase)](https://www.liquibase.org/)
+[![Flyway](https://img.shields.io/badge/Flyway-logo-000000?logo=flywaydb&logoColor=white)](https://flywaydb.org/)
+
+[![JUnit5](https://img.shields.io/badge/JUnit5-logo-25A162?logo=junit5)](https://junit.org/junit5/)
+[![Mockito](https://img.shields.io/badge/Mockito-logo-000?logo=mockito)](https://site.mockito.org/)
+[![Testcontainers](https://img.shields.io/badge/Testcontainers-logo-000?logo=testcontainers)](https://testcontainers.com/)
+[![WireMock](https://img.shields.io/badge/WireMock-logo-8A4182)](https://wiremock.org/)
+
+[![Swagger](https://img.shields.io/badge/Swagger-logo-85EA2D?logo=swagger)](https://swagger.io/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-logo-2088FF?logo=githubactions)](https://github.com/features/actions)
+[![Jenkins](https://img.shields.io/badge/Jenkins-logo-D24939?logo=jenkins)](https://www.jenkins.io/)
+
+[![C++](https://img.shields.io/badge/C++-logo-00599C?logo=cplusplus)](https://isocpp.org/)
+[![Qt](https://img.shields.io/badge/Qt-logo-41CD52?logo=qt)](https://www.qt.io/)
+[![SFML](https://img.shields.io/badge/SFML-logo-8CC03F)](https://www.sfml-dev.org/)
 
 -----
 
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Liquibase" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="apachekafka" height="50" />
-
-</div>
-
-
-
-<div align="center">
-  <!-- Version Control -->
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-  
-  <!-- API Tools -->
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="50" />
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" height="50" />
-  
-  <!-- Messaging -->
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" height="50" />
-  
-  <!-- Database -->
-  <img style="margin: 10px" src="https://jooq.org/img/professional/jooq-logo.svg" alt="jOOQ" height="50" />
-  <img style="margin: 10px" src="https://www.liquibase.org/wp-content/uploads/2021/10/Liquibase_Logo_Vert_FullColor_RGB.svg" alt="Liquibase" height="50" />
-  
-  <!-- Testing -->
-  <img style="margin: 10px" src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit 5" height="50" />
-  <img style="margin: 10px" src="https://site.mockito.org/favicon.png" alt="Mockito" height="50" />
-  <img style="margin: 10px" src="https://www.testcontainers.org/img/logo.png" alt="Testcontainers" height="50" />
-  
-  <!-- CI/CD -->
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" height="50" />
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="50" />
-  
-  <!-- C++ & Multimedia -->
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" height="50" />
-  <img style="margin: 10px" src="https://www.sfml-dev.org/images/logo.png" alt="SFML" height="50" />
-</div>
 
 ![Spring REST](https://img.shields.io/badge/Spring%20REST-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000)
