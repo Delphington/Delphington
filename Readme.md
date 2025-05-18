@@ -43,7 +43,6 @@
 
 
 **Tools:**
-
 [![Swagger](https://img.shields.io/badge/Swagger-logo-85EA2D?logo=swagger)](https://swagger.io/)
 [![Keycloak](https://img.shields.io/badge/Keycloak-logo-000?logo=keycloak)](https://www.keycloak.org/)
 [![Liquibase](https://img.shields.io/badge/Liquibase-logo-2962FF?logo=liquibase)](https://www.liquibase.org/)
