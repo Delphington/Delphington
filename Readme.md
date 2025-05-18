@@ -52,7 +52,7 @@
 [![jOOQ](https://img.shields.io/badge/jOOQ-logo-000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBkPSJNMTQwIDYwSDEyMHY4MGgyMFY2MHoiIGZpbGw9IiNGRkYiLz48cGF0aCBkPSJNODAgNjBINjB2ODBoMjBWNjB6IiBmaWxsPSIjRkZGIi8+PC9zdmc+)](https://www.jooq.org/)
 [![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-logo-F8DC75?logo=apachetomcat&logoColor=black)](https://tomcat.apache.org/)
 
-
+----
 <!--
 ![Spring REST](https://img.shields.io/badge/Spring%20REST-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
 ![Liquibase](https://img.shields.io/badge/Liquibase-39C2B2?style=for-the-badge&logo=liquibase&logoColor=white)
