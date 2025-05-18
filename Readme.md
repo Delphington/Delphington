@@ -14,8 +14,6 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2thd3RnMXoxcW50MWN2aGJveXY0cTExYXo1eXIxNXJ0YWVoMGdwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif"  width="150" height="150"/>
 </div>
 -->
-----
-
 
 ### Main Language
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
@@ -36,6 +34,7 @@
 ### Aditional
 
 **Testing:** 
+
 [![JUnit5](https://img.shields.io/badge/JUnit5-logo-25A162?logo=junit5)](https://junit.org/junit5/)
 [![Mockito](https://img.shields.io/badge/Mockito-logo-000?logo=mockito)](https://site.mockito.org/)
 [![Testcontainers](https://img.shields.io/badge/Testcontainers-logo-000?logo=testcontainers)](https://testcontainers.com/)
@@ -43,6 +42,7 @@
 
 
 **Tools:** 
+
 [![Swagger](https://img.shields.io/badge/Swagger-logo-85EA2D?logo=swagger)](https://swagger.io/)
 [![Keycloak](https://img.shields.io/badge/Keycloak-logo-000?logo=keycloak)](https://www.keycloak.org/)
 [![Liquibase](https://img.shields.io/badge/Liquibase-logo-2962FF?logo=liquibase)](https://www.liquibase.org/)
@@ -50,7 +50,6 @@
 [![jOOQ](https://img.shields.io/badge/jOOQ-logo-000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBkPSJNMTQwIDYwSDEyMHY4MGgyMFY2MHoiIGZpbGw9IiNGRkYiLz48cGF0aCBkPSJNODAgNjBINjB2ODBoMjBWNjB6IiBmaWxsPSIjRkZGIi8+PC9zdmc+)](https://www.jooq.org/)
 [![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-logo-F8DC75?logo=apachetomcat&logoColor=black)](https://tomcat.apache.org/)
 
------
 
 <!--
 ![Spring REST](https://img.shields.io/badge/Spring%20REST-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
