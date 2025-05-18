@@ -15,7 +15,7 @@
 </div>
 -->
 
-### Main Language
+### Main
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 
