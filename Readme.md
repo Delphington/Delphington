@@ -30,12 +30,25 @@
 ### Metrics
 [![My Skills](https://skillicons.dev/icons?i=prometheus,grafana)](https://skillicons.dev)
 
+
+-----
+
+### Aditional
+
+
+
+Database: JOOQ Liquibase/Flyway
+Testing: JUnit 5, Mockito, Testcontainers, SpringBootTest, WireMock
+Tools: CI/CD,  Swagger/OpenAPI
+Дополнительный опыт: C/C++, QT, SFML
+
+
 -----
 
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/JOOQ.svg" alt="JOOQ" height="50" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Liquibase" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="apachekafka" height="50" />
 
