@@ -34,15 +34,14 @@
 -----
 
 ### Aditional
-**Testing:**
-
+**Testing:** 
 [![JUnit5](https://img.shields.io/badge/JUnit5-logo-25A162?logo=junit5)](https://junit.org/junit5/)
 [![Mockito](https://img.shields.io/badge/Mockito-logo-000?logo=mockito)](https://site.mockito.org/)
 [![Testcontainers](https://img.shields.io/badge/Testcontainers-logo-000?logo=testcontainers)](https://testcontainers.com/)
 [![WireMock](https://img.shields.io/badge/WireMock-logo-8A4182)](https://wiremock.org/)
 
 
-**Tools:**
+**Tools:** 
 [![Swagger](https://img.shields.io/badge/Swagger-logo-85EA2D?logo=swagger)](https://swagger.io/)
 [![Keycloak](https://img.shields.io/badge/Keycloak-logo-000?logo=keycloak)](https://www.keycloak.org/)
 [![Liquibase](https://img.shields.io/badge/Liquibase-logo-2962FF?logo=liquibase)](https://www.liquibase.org/)
