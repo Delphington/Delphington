@@ -47,11 +47,42 @@ Tools: CI/CD,  Swagger/OpenAPI
 
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/JOOQ.svg" alt="JOOQ" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Liquibase" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="apachekafka" height="50" />
 
+</div>
+
+
+
+<div align="center">
+  <!-- Version Control -->
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  
+  <!-- API Tools -->
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="50" />
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" height="50" />
+  
+  <!-- Messaging -->
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" height="50" />
+  
+  <!-- Database -->
+  <img style="margin: 10px" src="https://jooq.org/img/professional/jooq-logo.svg" alt="jOOQ" height="50" />
+  <img style="margin: 10px" src="https://www.liquibase.org/wp-content/uploads/2021/10/Liquibase_Logo_Vert_FullColor_RGB.svg" alt="Liquibase" height="50" />
+  
+  <!-- Testing -->
+  <img style="margin: 10px" src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit 5" height="50" />
+  <img style="margin: 10px" src="https://site.mockito.org/favicon.png" alt="Mockito" height="50" />
+  <img style="margin: 10px" src="https://www.testcontainers.org/img/logo.png" alt="Testcontainers" height="50" />
+  
+  <!-- CI/CD -->
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" height="50" />
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="50" />
+  
+  <!-- C++ & Multimedia -->
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" height="50" />
+  <img style="margin: 10px" src="https://www.sfml-dev.org/images/logo.png" alt="SFML" height="50" />
 </div>
 
 ![Spring REST](https://img.shields.io/badge/Spring%20REST-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
