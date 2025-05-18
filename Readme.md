@@ -44,18 +44,11 @@
 **Tools:**
 [![Swagger](https://img.shields.io/badge/Swagger-logo-85EA2D?logo=swagger)](https://swagger.io/)
 [![Keycloak](https://img.shields.io/badge/Keycloak-logo-000?logo=keycloak)](https://www.keycloak.org/)
-[![Flyway](https://img.shields.io/badge/Flyway-logo-000000?logo=flywaydb&logoColor=white)](https://flywaydb.org/)
 [![Liquibase](https://img.shields.io/badge/Liquibase-logo-2962FF?logo=liquibase)](https://www.liquibase.org/)
+[![Flyway](https://img.shields.io/badge/Flyway-logo-000000?logo=flywaydb&logoColor=white)](https://flywaydb.org/)
 [![jOOQ](https://img.shields.io/badge/jOOQ-logo-000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBkPSJNMTQwIDYwSDEyMHY4MGgyMFY2MHoiIGZpbGw9IiNGRkYiLz48cGF0aCBkPSJNODAgNjBINjB2ODBoMjBWNjB6IiBmaWxsPSIjRkZGIi8+PC9zdmc+)](https://www.jooq.org/)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=000)
-![Lombok](https://img.shields.io/badge/lombok-green?style=for-the-badge&logo=flask&logoColor=white)
 
-
-
-[![C++](https://img.shields.io/badge/C++-logo-00599C?logo=cplusplus)](https://isocpp.org/)
-[![Qt](https://img.shields.io/badge/Qt-logo-41CD52?logo=qt)](https://www.qt.io/)
-[![SFML](https://img.shields.io/badge/SFML-logo-8CC03F)](https://www.sfml-dev.org/)
-
+[![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-logo-F8DC75?logo=apachetomcat&logoColor=black)](https://tomcat.apache.org/)
 -----
 
 <!--
