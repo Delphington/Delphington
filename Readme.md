@@ -29,8 +29,6 @@
 [![My Skills](https://skillicons.dev/icons?i=prometheus,grafana)](https://skillicons.dev)
 
 
------
-
 ### Aditional
 
 **Testing:** 
