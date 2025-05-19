@@ -33,16 +33,20 @@
 
 **Testing:** 
 
+<img src="https://github.com/user-attachments/assets/54b87a81-e176-4b65-adc4-034a1a881ad6" width="50" height="50" alt="Junit">
+<img src="https://github.com/user-attachments/assets/98405c90-e64a-427a-b858-594e7de62258" width="50" height="50" alt="Mocito">
+<img src="https://github.com/user-attachments/assets/98405c90-e64a-427a-b858-594e7de62258" width="50" height="50" alt="TestContainer">
 
-[![JUnit5](https://img.shields.io/badge/JUnit5-logo-25A162?logo=junit5)](https://junit.org/junit5/)
-[![Mockito](https://img.shields.io/badge/Mockito-logo-000?logo=mockito)](https://site.mockito.org/)
-[![Testcontainers](https://img.shields.io/badge/Testcontainers-logo-000?logo=testcontainers)](https://testcontainers.com/)
-[![WireMock](https://img.shields.io/badge/WireMock-logo-8A4182)](https://wiremock.org/)
+
 
 
 **Tools:** 
 <img src="https://github.com/user-attachments/assets/5578a975-30a2-4c03-982c-4b405cb4097b" width="50" height="50" alt="Swagger Logo">
 <img src="https://github.com/user-attachments/assets/54b87a81-e176-4b65-adc4-034a1a881ad6" width="50" height="50" alt="Junit">
+
+<img src="https://github.com/user-attachments/assets/54b87a81-e176-4b65-adc4-034a1a881ad6" width="50" height="50" alt="Junit">
+
+
 
 
 [![Keycloak](https://img.shields.io/badge/Keycloak-logo-000?logo=keycloak)](https://www.keycloak.org/)
