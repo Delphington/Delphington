@@ -24,37 +24,25 @@
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,kafka,hibernate,k8s,postman,gitlab,maven,gradle)](https://skillicons.dev)
+<img src="https://github.com/user-attachments/assets/5578a975-30a2-4c03-982c-4b405cb4097b" width="50" height="50" alt="Swagger">
+
 
 ### Metrics
 [![My Skills](https://skillicons.dev/icons?i=prometheus,grafana)](https://skillicons.dev)
 
 
-### Aditional
+## Aditional
 
 **Testing:** 
 
 <img src="https://github.com/user-attachments/assets/54b87a81-e176-4b65-adc4-034a1a881ad6" width="50" height="50" alt="Junit">
 <img src="https://github.com/user-attachments/assets/98405c90-e64a-427a-b858-594e7de62258" width="50" height="50" alt="Mocito">
-<img src="https://github.com/user-attachments/assets/98405c90-e64a-427a-b858-594e7de62258" width="50" height="50" alt="TestContainer">
+<img src="https://github.com/user-attachments/assets/00252f97-9ed5-4f15-b7c2-34ce4bcedecd" width="50" height="50" alt="TestContainer">
 
 
 
 
-**Tools:** 
-<img src="https://github.com/user-attachments/assets/5578a975-30a2-4c03-982c-4b405cb4097b" width="50" height="50" alt="Swagger Logo">
-<img src="https://github.com/user-attachments/assets/54b87a81-e176-4b65-adc4-034a1a881ad6" width="50" height="50" alt="Junit">
 
-<img src="https://github.com/user-attachments/assets/54b87a81-e176-4b65-adc4-034a1a881ad6" width="50" height="50" alt="Junit">
-
-
-
-
-[![Keycloak](https://img.shields.io/badge/Keycloak-logo-000?logo=keycloak)](https://www.keycloak.org/)
-[![Flyway](https://img.shields.io/badge/Flyway-logo-000000?logo=flywaydb&logoColor=white)](https://flywaydb.org/)
-[![jOOQ](https://img.shields.io/badge/jOOQ-logo-000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48cGF0aCBkPSJNMTQwIDYwSDEyMHY4MGgyMFY2MHoiIGZpbGw9IiNGRkYiLz48cGF0aCBkPSJNODAgNjBINjB2ODBoMjBWNjB6IiBmaWxsPSIjRkZGIi8+PC9zdmc+)](https://www.jooq.org/)
-[![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-logo-F8DC75?logo=apachetomcat&logoColor=black)](https://tomcat.apache.org/)
-
-----
 <!--
 ![Spring REST](https://img.shields.io/badge/Spring%20REST-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
 ![Liquibase](https://img.shields.io/badge/Liquibase-39C2B2?style=for-the-badge&logo=liquibase&logoColor=white)
