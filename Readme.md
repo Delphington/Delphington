@@ -54,6 +54,10 @@
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=fff)
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delphington&layout=donut&theme=merko&langs_count=5)](https://github.com/nemk0ff/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delphington&show_icons=true&theme=merko)](https://github.com/nemk0ff)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delphington&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
